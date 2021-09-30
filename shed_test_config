@@ -28,5 +28,5 @@ UserAdder: f8f2560710a31b2dd36861a279adde18e9cca3848d2eccf387945cad37ee907f
 UserAdder: 2b4dac7146a91f43289af15363daa26c3d389f6423ecc918b0ddf7919a593b5a
 
 OpenAtSec: 43200
-CloseAtSec: 72000
-DoorUnlockMS: 2500
+CloseAtSec: 79200
+DoorUnlockMS: 3000
